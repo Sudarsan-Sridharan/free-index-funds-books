@@ -91,6 +91,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 ### Getting Out of Debt
 * [Kamenetz, Anya - Generation debt : why now is a terrible time to be young](https://archive.org/details/generationdebtwh00kame)
+* [NPR LifeKit - How to Pay For College (Audio)](https://www.npr.org/podcasts/510345/how-to-pay-for-college)
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
 * [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
 
@@ -98,7 +99,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 
 ### Economics
-* [Häring, Norbert - Economics 2.0 : what the best minds in economics can teach you about business and life](https://archive.org/details/economics20whatb0000hari)
+* [Häring, Norbert - Economics 2.0 : what the best minds in economics can teach you about business and life](https://archive.org/details/economics20whatb0000hari)
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
 * [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
 * [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)

@@ -76,7 +76,8 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Muchnick, Cynthia - The frugal bride : save money on your wedding without losing an ounce of the romance](https://archive.org/details/frugalbridesavem0000much)
 * [Nardini, John and Meyering, Amy - 600 simple ways to save on everything](https://archive.org/details/600simplewaystos00nard)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
-* [NPR LifeKit - How to Buy a House (Audio)](hhttps://www.npr.org/podcasts/510337/how-to-buy-a-house
+* [NPR LifeKit - How to Buy a House (Audio)](https://www.npr.org/podcasts/510337/how-to-buy-a-house)
+* [NPR LifeKit - How to Pay For College (Audio)](https://www.npr.org/podcasts/510345/how-to-pay-for-college)
 * [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
 * [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
@@ -93,7 +94,6 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 ### Getting Out of Debt
 * [Kamenetz, Anya - Generation debt : why now is a terrible time to be young](https://archive.org/details/generationdebtwh00kame)
-* [NPR LifeKit - How to Pay For College (Audio)](https://www.npr.org/podcasts/510345/how-to-pay-for-college)
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
 * [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
 

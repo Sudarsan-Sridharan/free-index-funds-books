@@ -76,12 +76,14 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Muchnick, Cynthia - The frugal bride : save money on your wedding without losing an ounce of the romance](https://archive.org/details/frugalbridesavem0000much)
 * [Nardini, John and Meyering, Amy - 600 simple ways to save on everything](https://archive.org/details/600simplewaystos00nard)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
+* [NPR LifeKit - How to Buy a House (Audio)](hhttps://www.npr.org/podcasts/510337/how-to-buy-a-house
 * [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
 * [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
 * Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book 1)](https://archive.org/details/millionairenextd00stan) [(Book 2)](https://archive.org/details/millionairenextdsta00stan/page/n1) [(Book 3)](https://archive.org/details/millionairenextd00thom) [(Book 4)](https://archive.org/details/millionairenext000stan)
 * [Stanley, Thomas Millionaire women next door : the many journeys of successful American businesswomen](https://archive.org/details/millionairewomen00stan)
 * [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
+* [Tyson, Eric - Personal Finance For Dummies](https://archive.org/details/personalfinancef00tyso) & [Book 2](https://archive.org/details/personalfinancef00eric_0) & [Book 3](https://archive.org/details/personalfinancef00tyso_0) & [Workbook](https://archive.org/details/personalfinancew00garr)
 
 
 

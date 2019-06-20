@@ -46,6 +46,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Ferri, Richard - All about index funds : the easy way to get started](https://archive.org/details/allaboutindexfun00rich)
 * [Good, Walter and Hermansen, Roy - Index your way to investment success](https://archive.org/details/indexyourwaytoin00wal_6i4)
 * [Hebner, Mark - Index funds : the 12-step program for active investors](https://archive.org/details/indexfunds12step00hebn)
+* [Larimore, Taylor - The Bogleheads' Guide to Investing](https://archive.org/details/bogleheadsguidet00lari_0)
 * [Malkiel, Burton - A random walk down Wall Street : including a life-cycle guide to personal investing](https://archive.org/details/randomwalkdownwa00burt_1)
 * [Malkiel, Burton - The Random Walk Guide to Investing](https://archive.org/details/randomwalkguidet00malk)
 * [Malkiel, Burton - The random walk guide to investing : ten rules for financial success](https://archive.org/details/randomwalkguidet00burt)

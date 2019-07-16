@@ -82,7 +82,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [NPR LifeKit - How to Buy a House (Audio)](https://www.npr.org/podcasts/510337/how-to-buy-a-house)
 * [NPR LifeKit - How to Pay For College (Audio)](https://www.npr.org/podcasts/510345/how-to-pay-for-college)
 * [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
-* [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
+* [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g) [Book1](https://archive.org/details/yourmoneyoryourl00domi_0) [Book2](https://archive.org/details/yourmoneyoryour100domi) [Book3](https://archive.org/details/yourmoneyoryourl00domi) [Book4](https://archive.org/details/youremybaby00abbo) 
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
 * Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book 1)](https://archive.org/details/millionairenextd00stan) [(Book 2)](https://archive.org/details/millionairenextdsta00stan/page/n1) [(Book 3)](https://archive.org/details/millionairenextd00thom) [(Book 4)](https://archive.org/details/millionairenext000stan)
 * [Stanley, Thomas Millionaire women next door : the many journeys of successful American businesswomen](https://archive.org/details/millionairewomen00stan)

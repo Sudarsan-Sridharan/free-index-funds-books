@@ -88,6 +88,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Stanley, Thomas Millionaire women next door : the many journeys of successful American businesswomen](https://archive.org/details/millionairewomen00stan)
 * [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
 * [Tyson, Eric - Personal Finance For Dummies](https://archive.org/details/personalfinancef00tyso) & [Book 2](https://archive.org/details/personalfinancef00eric_0) & [Book 3](https://archive.org/details/personalfinancef00tyso_0) & [Workbook](https://archive.org/details/personalfinancew00garr)
+* [Yankee magazine's living well on a shoestring : 1,501 ingenious ways to spend less for what you need and have more for what you want](https://archive.org/details/yankeemagazine00dubl)
 
 
 

@@ -13,11 +13,11 @@ Mr. Money Mustache | [Entire website](http://www.mrmoneymustache.com/all-the-pos
 PBS | [Frontline Regarding 401ks](https://www.pbs.org/video/frontline-retirement-gamble): max-out your 401k each year ($19000) in an S&P500 index fund (or 81% large-cap index/S&P500, 6% mid-cap index, and 13% small-cap index if you have those options) plus maxing-out a Vanguard IRA ($6000) each year buying VTSAX. Put any extra savings into a post-tax Vanguard brokerage account, buying VTSAX.
 NPR | [Secrets of Saving and Investing](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 NPR | [Planet Money - Brilliant vs Boring](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
-Holm School | [Personal Finance Tips](https://holm.school/tips-for-personal-finance/)
-Holm School | [The Secrets of Compounding Interest, From A Programmer's Perspective](https://holm.school/secrets-compounding-interest/)
 John Bogle | [The little book of common sense investing](https://archive.org/details/littlebookofcomm00bogl)
 Bernstein, William | [If You Can - How Millennials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
 Larimore, Taylor | [The Bogleheads' Guide to Investing](https://archive.org/details/bogleheadsguidet00lari_0)
+Holm School | [Personal Finance Tips](https://holm.school/tips-for-personal-finance/)
+Holm School | [The Secrets of Compounding Interest, From A Programmer's Perspective](https://holm.school/secrets-compounding-interest/)
 r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books)
 
 ## Index
@@ -37,8 +37,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Bogle, John - Common sense on mutual funds : new imperatives for the intelligent investor](https://archive.org/details/commonsenseonmut00bogl)
 * [Bogle, John -  Enough : true measures of money, business, and life](https://archive.org/details/enoughtruemeasur00bogl)
 * [Bogle, John - John Bogle on investing : the first 50 years](https://archive.org/details/johnbogleoninves00john_0)
-* [Bogle, John - The Little Book of Common Sense Investing](https://archive.org/details/littlebookofcomm00bogl)
-* [Bogle, John - The Little Book of Common Sense Investing (Audio)](https://www.youtube.com/watch?v=TNvbBvzelCY)
+* [Bogle, John - The Little Book of Common Sense Investing](https://archive.org/details/littlebookofcomm00bogl) & [Audio](https://www.youtube.com/watch?v=TNvbBvzelCY)
 * [Cadsby, Ted - The power of Index Funds](https://archive.org/details/powerofindexfund0000cads) (Canada)
 * [Collins, JL - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [Collins, JL - Stock Series](https://jlcollinsnh.com/stock-series/)
@@ -98,6 +97,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 ### Getting Out of Debt
 * [Kamenetz, Anya - Generation debt : why now is a terrible time to be young](https://archive.org/details/generationdebtwh00kame)
+* Mundis, Jerrold - How to get out of debt, stay out of debt & live prosperously [Book1](https://archive.org/details/howtogetoutofdeb00mund) & [Book2](https://archive.org/details/howtogetoutofdeb00jerr) & [Book3](https://archive.org/details/howtogetoutofdeb00mund_0)
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
 * [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
 
